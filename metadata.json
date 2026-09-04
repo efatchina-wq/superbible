@@ -1,0 +1,6 @@
+{
+  "name": "SuperQuizz Biblique",
+  "description": "Application mobile de quiz biblique (MVP) avec Expo, Supabase, React Navigation et Zustand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
